@@ -6,4 +6,6 @@ SQL 권한 부여방법
 
 3) grant dba to scott;(사용자아이디)
    grant create table to scott;
-   grant create view to scott; -권한 부여	
+   grant create view to scott; -권한 부여
+
+4)
