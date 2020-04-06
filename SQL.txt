@@ -1,0 +1,9 @@
+SQL 권한 부여방법
+
+1) SQLPLUS 사용자아이디/ 비밀번호 - 접속 
+
+2) conn system/사용자 비밀번호 - 관리자 권한으로 연결
+
+3) grant dba to scott;(사용자아이디)
+   grant create table to scott;
+   grant create view to scott; -권한 부여	
